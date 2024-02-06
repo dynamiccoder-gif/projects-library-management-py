@@ -1,4 +1,4 @@
-ntroduction:
+Introduction:
 
 The code represents a Python program for a Library Management System (LMS) developed using the Tkinter library for building the graphical user interface (GUI) and SQLite for database management. The LMS allows users to efficiently manage the inventory of books in a library, enabling tasks such as adding new books, updating book details, removing books, and changing book availability status.
 
